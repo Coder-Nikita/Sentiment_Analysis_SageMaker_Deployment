@@ -5,7 +5,7 @@ Forecast sentiment of movie review using neural networks. Implementation is made
 ## Project Overview
 In this project a recurrent neural network is constructed for the purpose of determining the sentiment of a movie review using the IMDB data set. The model is created using Amazon's SageMaker service. In addition, the model is deployed and a simple web app is constructed which will interact with the deployed model.
 
-![alt text](https://github.com/udacity/deep-learning-v2-pytorch/raw/master/project-dog-classification/images/sample_dog_output.png)
+![alt text](https://github.com/Coder-Nikita/Sentiment_Analysis_SageMaker_Deployment/blob/master/Movie%20Review.png)
 
 ## Features
 IMDB reviews supported and checked
